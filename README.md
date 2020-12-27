@@ -5,11 +5,11 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka23g" alt="anushka23g" /></a> </p>
 
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
 
 
-<br>
+
 - 🔭 I’m currently working on [preparing Tech interviews Preparation Material for helping the community](https://github.com/anushka23g/Complete-Placement-Preparation)
 
 - 🌱 I’m currently learning **MERN Stack**
