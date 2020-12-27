@@ -1,25 +1,9 @@
 <h1 align="center">Hi 👋, I'm ANUSHKA GUPTA</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka23g&label=Profile%20views&color=0e75b6&style=flat" alt="anushka23g" /> </p>
-
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka23g" alt="anushka23g" /></a> </p>
-
-[![GitHub forks](https://img.shields.io/github/forks/anushka23g/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/anushka23g/StrapDown.js/network/)
-
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
-
-[![GitHub commits](https://img.shields.io/github/commits-since/anushka23g/StrapDown.js/v1.0.0.svg)](https://GitHub.com/anushka23g/StrapDown.js/commit/)
-
-[![Github all releases](https://img.shields.io/github/downloads/anushka23g/StrapDown.js/total.svg)](https://GitHub.com/anushka23g/StrapDown.js/releases/)
-
-[![GitHub stars](https://img.shields.io/github/stars/anushka23g/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/anushka23g/StrapDown.js/stargazers/)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/anushka23g/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/anushka23g/StrapDown.js/watchers/)
-
-[![GitHub followers](https://img.shields.io/github/followers/anushka23g.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/anushka23g?tab=followers)
-
-[![GitHub contributors](https://img.shields.io/github/contributors/anushka23g/StrapDown.js.svg)](https://GitHub.com/anushka23g/StrapDown.js/graphs/contributors/)
 
 
 <br>
