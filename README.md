@@ -12,9 +12,7 @@
 <br>
 
 
-🔭 ## I’m currently working on [preparing Tech interviews Preparation Material for helping the community](https://github.com/anushka23g/Complete-Placement-Preparation)
-
-🌱 ## I’m currently learning **MERN Stack**
+🔭 ## I’m currently working on [Tech interviews Preparation Material](https://github.com/anushka23g/Complete-Placement-Preparation)
 
 👯 ## I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
 
