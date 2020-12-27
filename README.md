@@ -12,15 +12,15 @@
 <br>
 
 
-🔭 ## I’m currently working on [Tech interviews Preparation Material](https://github.com/anushka23g/Complete-Placement-Preparation)
+🔭  I’m currently working on [Tech interviews Preparation Material](https://github.com/anushka23g/Complete-Placement-Preparation)
 
-👯 ## I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
+👯  I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
 
-💻 ## All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
+💻  All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
 
-💬 ## Ask me about **C++, C, Data Structures & Algorithms**
+💬  Ask me about **C++, C, Data Structures & Algorithms**
 
-📫 ## How to reach me **anushkagupta20128@gmail.com**
+📫  How to reach me **anushkagupta20128@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
