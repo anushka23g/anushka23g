@@ -6,7 +6,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka23g" alt="anushka23g" /></a> </p>
 
 <br>
-<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
+a href
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
 
 <br>
 
