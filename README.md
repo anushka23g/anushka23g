@@ -5,22 +5,23 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka23g" alt="anushka23g" /></a> </p>
 
+<br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
+<br>
 
 
+🔭 ## I’m currently working on [preparing Tech interviews Preparation Material for helping the community](https://github.com/anushka23g/Complete-Placement-Preparation)
 
-- 🔭 I’m currently working on [preparing Tech interviews Preparation Material for helping the community](https://github.com/anushka23g/Complete-Placement-Preparation)
+🌱 ## I’m currently learning **MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack**
+👯 ## I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
 
-- 👯 I’m looking to collaborate on [Learning Made Easy](https://github.com/anushka23g/Learning-Made-Easy)
+💻 ## All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
 
-- 👨‍💻 All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
+💬 ## Ask me about **C++, C, Data Structures & Algorithms**
 
-- 💬 Ask me about **C++, C, Data Structures & Algorithms**
-
-- 📫 How to reach me **anushkagupta20128@gmail.com**
+📫 ## How to reach me **anushkagupta20128@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
