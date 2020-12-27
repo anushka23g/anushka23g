@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka23g&label=Profile%20views&color=0e75b6&style=flat" alt="anushka23g" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka23g" alt="anushka23g" /></a> </p>
+
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+
 <br>
 - 🔭 I’m currently working on [preparing Tech interviews Preparation Material for helping the community](https://github.com/anushka23g/Complete-Placement-Preparation)
 
