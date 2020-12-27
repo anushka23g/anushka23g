@@ -23,7 +23,7 @@
 📫  How to reach me **anushkagupta20128@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://linkedin.com/in/anushka-gupta-679496196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anushka-gupta-679496196" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anushka23g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anushka23g" height="30" width="40" /></a>
 </p>
