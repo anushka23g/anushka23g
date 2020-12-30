@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anushka23g&label=Profile%20views&color=0e75b6&style=flat" alt="anushka23g" /> </p>
-<br>
 
+<br>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
 
