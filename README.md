@@ -17,7 +17,7 @@
 
 💻  All of my projects are available at [https://github.com/anushka23g](https://github.com/anushka23g)
 
-🐣  My latest repository, [Tech-interviews-Prep](https://github.com/anushka23g/Complete-Placement-Preparation) has been ***Ranked under the TRENDING repositories on Github Worldwide at the 11th position.*** ❤️
+🐣  My latest repository, [Tech-interviews-Prep](https://github.com/anushka23g/Complete-Placement-Preparation), ***Ranked under the TRENDING repositories on Github Worldwide at the 11th position.*** ❤️
 <br>
 
 
