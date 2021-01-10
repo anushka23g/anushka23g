@@ -6,7 +6,8 @@
 <br>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka23g&show_icons=true&locale=en" alt="anushka23g" /></p>
-
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka23g&layout=compact&langs_count=8" alt="anushka23g" />
+</p>
 <br>
 <br>
 
